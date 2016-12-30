@@ -1,4 +1,7 @@
 # ComputerGraphics
+
+### 吴耀波 13300200019
+
 Projects of COMP130018.01（计算机图形学）
 
 1. 编程实现音乐节奏或旋律的可视化
